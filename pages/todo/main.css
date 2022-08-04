@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 60%;
+    margin: 2rem auto;
+    padding: 2rem;
+    border:1px red solid;
+}
+
+#inputField {
+    width: 400px;
+    height: 40px;
+    border: 3px solid black;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
